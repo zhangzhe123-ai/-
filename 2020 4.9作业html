@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>作业</title>
+		<style type="text/css">
+			*{
+				margin: 0px;
+				padding: 0px;
+			}
+			.ad{
+				width: 350px;
+				height: 165px;
+				background-color: antiquewhite;
+				color: coral;
+				text-align: center;
+			}
+			strong{
+				color: #55aa7f;
+			}
+			p{
+				font-size: 25px;
+			}
+			#zx{
+				font-size: 12px;
+			}
+			.english{
+				font-family: "agency fb";
+			}
+			.as{
+				text-indent: -1em;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="ad">
+			<h1 class="as"><strong>2020</strong>春装全面上新</h1>
+			<p class="english">Spring is Goming</p>
+			<p>全场两件<strong>包邮</strong></p>
+			<p class="english">April 4.1~4.30</p>
+			<p id="zx">所有邂逅的相逢，所有萍聚水遇，都在缘分的天空下慢慢演绎.....</p>
+		</div>
+	</body>
+</html>
