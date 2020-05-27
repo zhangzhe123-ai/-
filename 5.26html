@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
  <head>
   <meta charset="utf-8" />
   <title></title>
@@ -51,3 +52,12 @@
   </span>鼠标放在这个上面</p >
  </body>
 <html>
+=======
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+>>>>>>> 25016abfe2f81af8d99ab47caff39a25b1cda523
